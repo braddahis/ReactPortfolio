@@ -5,7 +5,7 @@ function Footer (){
             <ul>
                 <a href ="https://github.com/braddahis">
                     <li>
-                        visit my GitHub
+                        vist my GitHub
                     </li>
                 </a>
                 <a href = "https://www.linkedin.com/in/alexander-nunez-90b8bb150">

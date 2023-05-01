@@ -6,6 +6,7 @@ import Pawz from '../images/Pawz.png';
 import RegexTurtorial from '../images/RegexTurtorial.png';
 import TextEditor from '../images/TextEditor.png';
 import NoteTaker from '../images/NoteTaker.png';
+import VisibleHand from '../images/VisibleHand.png';
 
 export default function Portfolio() {
 const projects = [
@@ -20,7 +21,9 @@ const projects = [
         website: "https://github.com/codejoes/Pawz"
     },
     {
-        id: 3, title: "project three"
+        id: 3, title: "project three",
+        image: VisibleHand,
+        website: "https://cryptic-anchorage-50091.herokuapp.com/"
     },
     {
       id: 4, title: "project four",
